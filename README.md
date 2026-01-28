@@ -1,5 +1,5 @@
 # badapple-os
-![Static Badge](https://img.shields.io/badge/Source_Distribution-None-blue)
+![Static Badge](https://img.shields.io/badge/Source_Distribution-literally_broken-blue)
 [![Static Badge](https://img.shields.io/badge/Youtube%20@WompWomp1234--j6c-red)](https://www.youtube.com/@WompWomp1234-j6c)
 
 
