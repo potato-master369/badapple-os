@@ -1,6 +1,6 @@
 # badapple-os
 ![Static Badge](https://img.shields.io/badge/Source_Distribution-None)
-![Static Badge](https://img.shields.io/badge/Youtube%20@WompWomp1234%2dj6c-red)
+![Static Badge](https://img.shields.io/badge/Youtube%20@WompWomp1234\%2dj6c-red)
 
 
 i686 PC-AT Bad Apple Operating system based off of the OSDev wiki.
