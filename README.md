@@ -21,7 +21,7 @@ Simple. I lost it. Idk where it is. If you want, uhh you can try to recreate it 
 * PIT
 * Bare bones
 * Cross-compiler
-* Buiding GCC for i686
+* Building GCC for i686
 
 (not the exact names I'm not too sure)
 
