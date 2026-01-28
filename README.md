@@ -1,6 +1,6 @@
 # badapple-os
-![Static Badge](https://img.shields.io/badge/Source_Distribution-None)
-![Static Badge](https://img.shields.io/badge/Youtube%20@WompWomp1234\%2dj6c-red)
+![Static Badge](https://img.shields.io/badge/Source_Distribution-None-blue)
+[![Static Badge](https://img.shields.io/badge/Youtube%20@WompWomp1234--j6c-red)](https://www.youtube.com/@WompWomp1234-j6c)
 
 
 i686 PC-AT Bad Apple Operating system based off of the OSDev wiki.
@@ -13,6 +13,7 @@ i686 PC-AT Bad Apple Operating system based off of the OSDev wiki.
 ## About
 ---
 I made this project for fun, and as a literal joke. Why not, am i right? Perhaps, it's also a bit of a flex :p 
+Also do yall like the badges i just found out you can do this!!!
 
 ### Why isn't there source code.
 
